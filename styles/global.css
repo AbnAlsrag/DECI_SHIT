@@ -1,0 +1,54 @@
+body {
+    background: #272e36;
+}
+
+a {
+    text-decoration: none;
+}
+
+hr {
+    position: relative;
+    clear: both;
+}
+
+#clear-1 {
+    clear: both;
+}
+
+#menu {
+    float: right;
+    margin-right: 35%;
+}
+
+.menu-items {
+    color: #fafcfa;
+    padding: 20px;
+}
+
+.menu-items:hover  {
+    color: #4a6786;
+}
+
+#vl-2 {
+    border-left: 3px solid #64777f;
+    height: 30px;
+    position: relative;
+}
+
+#contact_main {
+    clear: right;
+}
+
+.contact_items {
+    display: inline; 
+    position: relative;
+    margin:10px;
+    left: 40%;
+    top: 25px;
+}
+
+#logo-2 {
+    float: right;
+    position: relative;
+    right: 33%;
+}

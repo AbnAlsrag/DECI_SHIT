@@ -1,0 +1,19 @@
+#QUOTE {
+    font-size: 400%;
+    position: absolute;
+    left: 10%;
+    top: 300px;
+}
+
+#vl-1 {
+    border-left: 3px solid #64777f;
+    height: 300px;
+    position: absolute;
+    left: 50%;
+    top: 43%;
+}
+
+#PANEL {
+    float: right;
+    margin-right: 130px;
+}
